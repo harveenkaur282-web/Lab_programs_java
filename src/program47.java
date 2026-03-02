@@ -1,5 +1,5 @@
 //Write a program to show multiple catch blocks.
-class Program47 {
+class program47 {
     public static void main(String[] args) {
         try {
             int arr[] = new int[3];
