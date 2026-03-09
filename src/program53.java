@@ -5,7 +5,7 @@ interface Demo {
     }
 }
 
-class Test implements Demo {
+class Test11 implements Demo {
     public void display() {
         System.out.println("Overridden method in class");
     }
