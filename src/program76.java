@@ -8,8 +8,7 @@ class SharedResource {
                 Thread.sleep(5000);
                 System.out.println(Thread.currentThread().getName() + " completed task.");
             } catch (InterruptedException e) {
-                System.out.println(Thread.currentThread().getName() + " was INTERRUPTED while in
-                        sleep!");
+                System.out.println(Thread.currentThread().getName() + " was INTERRUPTED while in sleep!");
             }
             System.out.println(Thread.currentThread().getName() + " is leaving synchronized block.");
         }

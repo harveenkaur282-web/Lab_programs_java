@@ -9,14 +9,14 @@ class Task1 extends Thread {
 
 class Task2 extends Thread {
     public void run() {
-        System.out.println("Prin ng alphabets");
+        System.out.println("Printing alphabets");
         for(char c='A'; c<='E'; c++) {
             System.out.println(c);
         }
     }
 }
 
-public class ThreadTask {
+public class program70 {
 
     public void main(String[] args) {
 

@@ -9,7 +9,7 @@ class Counter {
         return count;
     }
 }
-public class SyncDemo {
+public class program75 {
     public static void main(String[] args) throws InterruptedException {
         Counter counter = new Counter();
         Runnable task = () -> {

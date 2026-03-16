@@ -38,7 +38,7 @@ class Thread2 extends Thread {
     }
 }
 
-public class SyncMethod {
+public class program71 {
 
     public static void main(String[] args) {
 

@@ -5,7 +5,7 @@ package java_file;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-public class q79 {
+public class program79 {
     public static void main(String[] args) {
         String file = "example.txt";
         String data = "Hello, this is data!";

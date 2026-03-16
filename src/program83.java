@@ -1,7 +1,7 @@
 package java_file;
 import java.util.LinkedList;
 import java.util.List;
-public class linkedlistOperations {
+public class program83 {
     public static void main(String[] args) {
         LinkedList<Integer> list = new LinkedList<>();
         System.out.println("Initail empty list: " + list);

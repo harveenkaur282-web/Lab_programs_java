@@ -37,7 +37,7 @@ public class program72 {
 
         Test obj = new Test();
 
-        MyThread t1 = new MyThread(obj);
+        MyThread t1 = new MyThread();
         t1.start();
 
         t1.interrupt();

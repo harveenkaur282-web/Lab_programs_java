@@ -1,7 +1,7 @@
 package java_file;
 import java.util.TreeSet;
 import java.util.Iterator;
-public class treeSet {
+public class program82 {
     public static void main(String[] args) {
         TreeSet<String> name = new TreeSet<>();
         name.add("John");
