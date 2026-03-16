@@ -8,7 +8,7 @@ class PriorityThread extends Thread {
 
 public class ThreadPriority {
 
-    public sta c void main(String[] args) {
+    public sta c; void main(String[] args) {
 
         PriorityThread t1 = new PriorityThread();
         PriorityThread t2 = new PriorityThread();

@@ -18,11 +18,11 @@ class Test {
     }
 }
 
-class MyThread extends Thread {
+class MyThread2 extends Thread {
 
     Test t;
 
-    MyThread(Test t) {
+    MyThread2(Test t) {
         this.t = t;
     }
 

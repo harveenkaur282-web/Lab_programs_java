@@ -7,7 +7,7 @@ class Table {
 
             try {
                 Thread.sleep(400);
-            } catch(Excep on e) {}
+            } catch(Exception e) {}
         }
     }
 }
@@ -40,7 +40,7 @@ class Thread2 extends Thread {
 
 public class SyncMethod {
 
-    public sta c void main(String[] args) {
+    public static void main(String[] args) {
 
         Table obj = new Table();
 

@@ -7,7 +7,7 @@ class MyThread extends Thread {
 
             try {
                 Thread.sleep(500);
-            } catch(Excep on e) {}
+            } catch(Exception e) {}
 
             Thread.yield();
         }

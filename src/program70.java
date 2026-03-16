@@ -1,6 +1,6 @@
 class Task1 extends Thread {
     public void run() {
-        System.out.println("Prin ng numbers");
+        System.out.println("Printing numbers");
         for(int i=1;i<=5;i++) {
             System.out.println(i);
         }
@@ -16,9 +16,9 @@ class Task2 extends Thread {
     }
 }
 
-public class Mul ThreadTask {
+public class ThreadTask {
 
-    public sta c void main(String[] args) {
+    public void main(String[] args) {
 
         Task1 t1 = new Task1();
         Task2 t2 = new Task2();
